@@ -20,7 +20,7 @@ jobs:
       - name: Generate profile metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          token: ${{ github.token }}
           user: victor-dias21
           filename: github-metrics.svg
           committer_message: "chore(metrics): atualiza github metrics [skip ci]"
