@@ -2,7 +2,7 @@
 
 # Victor Dias
 
-**DevOps and SRE learner focused on cloud infrastructure, automation, and reliability.**
+**Aprendendo DevOps e SRE com foco em infraestrutura cloud, automação, Kubernetes e confiabilidade.**
 
 <a href="https://github.com/victor-dias21?tab=repositories">
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-GitHub-24292f?style=for-the-badge&logo=github" />
@@ -17,27 +17,27 @@
 <br />
 <br />
 
-<img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=Infrastructure+as+code;Containers+and+automation;CI%2FCD+and+deployment+practice;Observability+and+reliability" />
+<img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=Infraestrutura+como+codigo;Kubernetes+e+containers;CI%2FCD+e+praticas+de+deploy;Observabilidade+e+confiabilidade" />
 
 </div>
 
-## About
+## Sobre
 
-I am developing practical experience in DevOps and SRE by building small, repeatable projects around infrastructure, automation, deployment workflows, and operational reliability.
+Estou desenvolvendo experiência prática em DevOps e SRE criando projetos pequenos e repetíveis sobre infraestrutura, automação, Kubernetes, fluxos de deploy e confiabilidade operacional.
 
-My current goal is to turn hands-on learning into public repositories that are useful to revisit, easy to run, and clear enough for other people to understand.
+Meu objetivo atual é transformar aprendizado prático em repositórios públicos úteis para consulta, fáceis de executar e claros para outras pessoas entenderem.
 
-## Current Focus
+## Foco Atual
 
-| Area | What I am practicing |
+| Área | O que estou praticando |
 | --- | --- |
-| Cloud and IaC | AWS fundamentals, Terraform modules, repeatable environments |
-| Containers | Docker images, local services, runtime configuration |
-| Delivery | Git, GitHub Actions, CI/CD workflows, release habits |
-| Operations | Linux, Bash, troubleshooting, logs, metrics, alerts |
-| Reliability | Documentation, incident learning, measurable improvements |
+| Cloud e IaC | Fundamentos de AWS, Terraform e ambientes reproduzíveis |
+| Containers e Kubernetes | Docker, Kubernetes, serviços locais e configuração de runtime |
+| Entrega | Git, GitHub Actions, CI/CD e práticas de release |
+| Operações | Linux, Bash, troubleshooting, logs, métricas e alertas |
+| Confiabilidade | Documentação, aprendizado com incidentes e melhorias mensuráveis |
 
-## Toolbox
+## Tecnologias
 
 <div align="center">
 
@@ -53,24 +53,24 @@ My current goal is to turn hands-on learning into public repositories that are u
 
 </div>
 
-## Featured Work
+## Projetos em Destaque
 
-| Repository | Focus |
+| Repositório | Foco |
 | --- | --- |
-| [terraform-aws-s3-website-test](https://github.com/victor-dias21/terraform-aws-s3-website-test) | Terraform practice for AWS static website infrastructure |
-| [imersao-devops-alura](https://github.com/victor-dias21/imersao-devops-alura) | DevOps learning project with Python and deployment fundamentals |
-| [cs2-docker-server](https://github.com/victor-dias21/cs2-docker-server) | Dedicated game server packaged with Docker |
-| [all-books](https://github.com/victor-dias21/all-books) | JavaScript project for application structure and Git workflow practice |
+| [terraform-aws-s3-website-test](https://github.com/victor-dias21/terraform-aws-s3-website-test) | Prática de Terraform para infraestrutura de site estático na AWS |
+| [imersao-devops-alura](https://github.com/victor-dias21/imersao-devops-alura) | Projeto de aprendizado DevOps com Python e fundamentos de deploy |
+| [cs2-docker-server](https://github.com/victor-dias21/cs2-docker-server) | Servidor dedicado empacotado com Docker |
+| [all-books](https://github.com/victor-dias21/all-books) | Projeto JavaScript para praticar estrutura de aplicação e fluxo com Git |
 
-## How I Work
+## Como Trabalho
 
-- Build small and make it repeatable.
-- Prefer automation over manual fixes.
-- Document commands, assumptions, and tradeoffs.
-- Keep learning visible through practical repositories.
-- Treat reliability as a cycle: observe, measure, improve, and share.
+- Construir pequeno e tornar repetível.
+- Preferir automação em vez de correções manuais.
+- Documentar comandos, premissas e tradeoffs.
+- Manter o aprendizado visível em repositórios práticos.
+- Tratar confiabilidade como um ciclo: observar, medir, melhorar e compartilhar.
 
-## GitHub Overview
+## Visão Geral do GitHub
 
 <div align="center">
 
@@ -88,8 +88,9 @@ My current goal is to turn hands-on learning into public repositories that are u
 
 </div>
 
-## Connect
+## Contato
 
 - GitHub: [victor-dias21](https://github.com/victor-dias21)
-- Organization: Cogna Educacao
-- Location: Sao Paulo, Brazil
+- LinkedIn: [victor-rebelo-dias](https://www.linkedin.com/in/victor-rebelo-dias/)
+- Organização: Cogna Educação
+- Localização: São Paulo, Brasil
