@@ -57,10 +57,12 @@ Meu objetivo atual é transformar aprendizado prático em repositórios público
 
 | Repositório | Foco |
 | --- | --- |
-| [terraform-aws-s3-website-test](https://github.com/victor-dias21/terraform-aws-s3-website-test) | Prática de Terraform para infraestrutura de site estático na AWS |
+| [terraform-aws-static-site](https://github.com/victor-dias21/terraform-aws-static-site) | Laboratório Terraform para site estático na AWS com S3, CloudFront, Route 53 e ACM |
+| [kubernetes-troubleshooting-lab](https://github.com/victor-dias21/kubernetes-troubleshooting-lab) | Cenários práticos de troubleshooting Kubernetes para DevOps e SRE |
+| [github-actions-devops-pipeline](https://github.com/victor-dias21/github-actions-devops-pipeline) | Pipeline CI/CD com GitHub Actions, FastAPI, testes, lint e Docker |
+| [terraform-aws-s3-website-test](https://github.com/victor-dias21/terraform-aws-s3-website-test) | Primeiro estudo de Terraform para infraestrutura de site estático na AWS |
 | [imersao-devops-alura](https://github.com/victor-dias21/imersao-devops-alura) | Projeto de aprendizado DevOps com Python e fundamentos de deploy |
 | [cs2-docker-server](https://github.com/victor-dias21/cs2-docker-server) | Servidor dedicado empacotado com Docker |
-| [all-books](https://github.com/victor-dias21/all-books) | Projeto JavaScript para praticar estrutura de aplicação e fluxo com Git |
 
 ## Como Trabalho
 
