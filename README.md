@@ -74,6 +74,11 @@ My current goal is to turn hands-on learning into public repositories that are u
 
 <div align="center">
 
+<img alt="GitHub metrics" src="./github-metrics.svg" />
+
+<br />
+<br />
+
 <img height="165" alt="Victor's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=victor-dias21&show_icons=true&theme=github_dark&hide_border=true" />
 <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-dias21&layout=compact&theme=github_dark&hide_border=true" />
 
